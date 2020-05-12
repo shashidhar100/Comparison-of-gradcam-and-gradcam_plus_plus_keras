@@ -6,11 +6,11 @@ if you want to run the code just download the gradcam_plus_plus_visualization_on
 
 # Requirements
 
-Keras  2.3.1\n
-matplotlib 3.0.3\n
-numpy 1.16.2
-scipy  1.4.1
-tensorflow 2.1.0
+Keras  2.3.1,
+matplotlib 3.0.3,
+numpy 1.16.2,
+scipy  1.4.1,
+tensorflow 2.1.0,
 
 # Results
 
