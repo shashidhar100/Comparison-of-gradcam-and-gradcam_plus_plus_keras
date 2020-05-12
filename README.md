@@ -14,14 +14,17 @@ if you want to run the code just download the gradcam_plus_plus_visualization_on
 - tensorflow 2.1.0,
 
 ## Results
-### gradcam + +
+### Gradcam + +
 ![](gradcam++_img_mosque1.png)
+### Gradcam
+![](gradcam_img_mosque1.png)
 
 
 
 ## References
-for original gradcam++ code refer :https://github.com/totti0223/gradcamplusplus
-for paper : https://arxiv.org/abs/1710.11063
+- for original gradcam and gradcam++ code refer :(https://github.com/totti0223/gradcamplusplus)
+- for paper gradcam ++: (https://arxiv.org/abs/1710.11063)
+- for paper gradcam : (https://arxiv.org/abs/1610.02391)
 
 
 
